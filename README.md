@@ -5,3 +5,5 @@
 - 🔥 My major research interests are Knowledge-Aware LLMs and enhancing their controllability & robustness.
 - 🇺🇸 I'm an incoming exchange student at the [University of Washington](https://www.washington.edu/).
 - 🔎 You can look for more details about me, through my [website](https://m-joon-ixix.github.io/) or my [CV](https://m-joon-ixix.github.io/assets/files/minjoon-cv.pdf)!
+
+> I've uploaded most of my course assignment solutions on Github. Since most of the assignment problems are reused and thus my source code could be used in homework plagiarism, I've set them to private repositories. If needed, you are free to personally request access via email. 🙌
